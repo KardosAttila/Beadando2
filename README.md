@@ -20,6 +20,25 @@ A feladatnak mininálisan tartalmaznia kell:
 - REST API végpont kialakítása
 - szerveroldali perzisztálás fájlba
 
+## Impelemtáció
+Fejlesztői környezet
+Cloud9 IDE
+Könyvtárstruktúra
+bead
+app: app.js alkalmazás, router.js-ben található hogy az oldalak milyen címen legyenek elérhetőek
+pods: ember.js podok
+components: üzleti logika
+index: kezdőlap
+subject: tantárgy modellje
+subjects: tantárgyak oldal szerkezete
+student: diák modellje
+students: diák oldal szerkezete
+styles: stíluslapok
+bower_components: bower elemei
+config: ember.js konfiguráció
+public: publikus képek(adatbázis diagram, szekvencia diagram..)
+
+
 ## Felhasználói dokumentáció
 
 A program egy egyoldalas weboldalként van implementálva.
