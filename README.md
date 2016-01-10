@@ -21,22 +21,22 @@ A feladatnak mininálisan tartalmaznia kell:
 - szerveroldali perzisztálás fájlba
 
 ## Impelemtáció
-Fejlesztői környezet
-Cloud9 IDE
-Könyvtárstruktúra
-bead
-app: app.js alkalmazás, router.js-ben található hogy az oldalak milyen címen legyenek elérhetőek
-pods: ember.js podok
-components: üzleti logika
-index: kezdőlap
-subject: tantárgy modellje
-subjects: tantárgyak oldal szerkezete
-student: diák modellje
-students: diák oldal szerkezete
-styles: stíluslapok
-bower_components: bower elemei
-config: ember.js konfiguráció
-public: publikus képek(adatbázis diagram, szekvencia diagram..)
++ Fejlesztői környezet
+  + Cloud9 IDE
++ Könyvtárstruktúra
++ bead
+  + app: app.js, router.js, index.html
+    + adapters: application.js
+      + components: add-todo.js, list-todo.js
+      + controllers: application.js 
+      + models: person.js, todo.js
+      + routes: application.js, list-todo.js
+      + styles: app.css
+      + templates: components: add-todo.hbs, list-todo.hbs, application.hbs
+    + styles: stíluslapok
+  + bower_components: bower elemei
+  + config: ember.js konfiguráció 
+
 
 
 ## Felhasználói dokumentáció
