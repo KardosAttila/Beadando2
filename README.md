@@ -6,7 +6,9 @@ U6L05S
 
 ## Követelményanalízis
 
-#### Családi todo program.
+#### Családi teendők program:
+Családtagokhoz rendelhetünk különböző feladatokat.
+
 A feladatnak mininálisan tartalmaznia kell:
 
 - legalább két modellt, egy-sok kapcsolatban
@@ -34,4 +36,4 @@ Egy TODO törléséhez a törölni kívánt TODO-val egy sorban levő 'Törlés'
 
 ## Adatbázis terv
 
-![Adatbázis kapcsolat](docs/adatb.png)
+![Adatbázis kapcsolat](docs/adatb.jpg)
