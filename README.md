@@ -44,14 +44,14 @@ A feladatnak mininálisan tartalmaznia kell:
 A program egy egyoldalas weboldalként van implementálva.
 A Családi TODO lista használata:
 
-Az új TODO felviteléhez a beviteli mezőket kell kitölteni, cím(title), leírás(description), kihez lesz rendelve a TODO(assignedto) mezőkben.
-Ez után a "hozzáad" gombra kattintva tudjuk hozzáadni a TODO-t a listához.
+Az új TODO felviteléhez a beviteli mezőket kell kitölteni, Feladat, leírás,határidő, és hogy ki a megbízott.
+Ez után a "hozzáad" gombra kattintva tudjuk a listához adni a kért feladatot.
 
 Szerkesztéshez kattintsunk egy 'szerkesztés' gombra, ekkor megjelenik egy új sor a táblázatban beviteli mezőkkel és mellete egy 'Módosít gombbal'.
 Ez után kattintsunk a szerkeszteni kívánt TODO-val egy sorban levő 'szerkeszt gombra' és ezzel kitöltődnek a szerkesztő mezők.
 A kívánt módosításokat végrehajtva kattintsunk a 'Módosít' gombra és ezzel a szerkesztés kész.
 
-Egy TODO törléséhez a törölni kívánt TODO-val egy sorban levő 'Törlés' gombot kell kattintani.
+Egy teendő törléséhez a sor végén lévő Törlés gombra kell kattintani.
 
 ## Adatbázis terv
 
